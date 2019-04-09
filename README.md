@@ -1,4 +1,3 @@
-
 安卓应用中常用到一些弹出通知，对话框，提示语之类的。
  
  ## 1 Toast
@@ -100,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
  
  运行后点击Toast按钮，效果：
  
- ![image](http://po1d0nnr5.bkt.clouddn.com/QQ20190321-154255.png)
+ ![image](http://youdao.mikezz.cn/QQ20190321-154255.png-wardo)
  
  
  ## 2 PopupWindow
@@ -238,7 +237,7 @@ public class MainActivity extends AppCompatActivity {
 
 运行效果：
 
-![image](http://po1d0nnr5.bkt.clouddn.com/QQ20190321-155904.png)
+![image](http://youdao.mikezz.cn/QQ20190321-155904.png-wardo)
 
 
 ## 3 Notification
@@ -425,11 +424,9 @@ layout_dialog.xml
 
 运行看效果。
 
-![image](http://po1d0nnr5.bkt.clouddn.com/QQ20190321-165415.png)
-![image](http://po1d0nnr5.bkt.clouddn.com/QQ20190321-165321.png)
-
-
-![image](http://po1d0nnr5.bkt.clouddn.com/QQ20190321-165336.png)
+![image](http://youdao.mikezz.cn/QQ20190321-165415.png-wardo)
+![image](http://youdao.mikezz.cn/QQ20190321-165321.png-wardo)
+![image](http://youdao.mikezz.cn/QQ20190321-165336.png-wardo)
 
 
  
